@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/vimalanand/myNodeApp/issues"
   },
-  "homepage": "https://github.com/vimalanand/myNodeApp"
+  "homepage": "https://github.com/vimalanand/myNodeApp",
+  "devDependencies": {
+    "express": "^4.12.3"
+  }
 }
